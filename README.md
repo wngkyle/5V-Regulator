@@ -1,3 +1,3 @@
 # 5V-Regulator
 
-![Board_Layout](Eagle\n Board.png)
+![Board_Layout](Eagle-Board.png)
