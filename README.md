@@ -1,3 +1,3 @@
 # 5V-Regulator
 
-![Board Layout](Eagle Board.png)
+![Board Layout](/Users/wng/Desktop/5V-Regulator-CAMOutputs/Eagle\n Board.png)
