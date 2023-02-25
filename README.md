@@ -1,3 +1,3 @@
 # 5V-Regulator
 
-![Board Layout](https://github.com/wngkyle/5V-Regulator/blob/main/Board.png)
+![Board_Layout](Eagle\n Board.png)
